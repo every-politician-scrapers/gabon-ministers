@@ -1,0 +1,179 @@
+{
+  "title": "Pacôme Moubelet-Boubeya",
+  "pageID": 51587797,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Gabonese Democratic Party politicians",
+    "Government ministers of Gabon",
+    "Members of the National Assembly of Gabon",
+    "Foreign ministers of Gabon",
+    "21st-century Gabonese people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pacôme Moubelet-Boubeya (born 12 March 1963) is a Gabonese politician.",
+              "formatting": {
+                "bold": [
+                  "Pacôme Moubelet-Boubeya"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Minister of Foreign Affairs of Gabon since 2020, he previously served in the same role from 2016 to 2017.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs of Gabon",
+                  "type": "internal",
+                  "page": "Minister for Foreign Affairs (Gabon)"
+                }
+              ]
+            },
+            {
+              "text": "He also was Minister of the Interior from 2015 to 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Gabonese politician",
+          "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "3",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pacôme Moubelet-Boubeya"
+          },
+          "image": {
+            "text": "Pacôme Moubelet-Boubeya (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister for Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister for Foreign Affairs",
+                "type": "internal",
+                "page": "Minister for Foreign Affairs (Gabon)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ali Bongo Ondimba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Bongo Ondimba"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 July 2020"
+          },
+          "predecessor": {
+            "text": "Alain Claude Bilie-By-Nze",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alain Claude Bilie-By-Nze"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 October 2016"
+          },
+          "term_end1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor1": {
+            "text": "Emmanuel Issoze Ngondet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Issoze Ngondet"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Noël Nelson Messone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Noël Nelson Messone"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of the Interior"
+          },
+          "president2": {
+            "text": "Ali Bongo Ondimba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Bongo Ondimba"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end2": {
+            "text": "2 October 2016"
+          },
+          "successor2": {
+            "text": "Lambert Matha",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lambert Matha"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 12, 1963"
+          },
+          "birth_place": {
+            "text": "Bitam, Gabon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bitam"
+              },
+              {
+                "type": "internal",
+                "page": "Gabon"
+              }
+            ]
+          },
+          "party": {
+            "text": "PDG",
+            "links": [
+              {
+                "text": "PDG",
+                "type": "internal",
+                "page": "Gabonese Democratic Party"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
