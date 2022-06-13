@@ -1,11 +1,11 @@
 id,name,relationship,relative,relativename
-Q172083,Omar Bongo,child,Q3367723,Pascaline Bongo Ondimba
-Q172083,Omar Bongo,child,Q57521,Ali Bongo Ondimba
-Q172083,Omar Bongo,spouse,Q273791,Edith Lucie Bongo
-Q172083,Omar Bongo,spouse,Q443143,Patience Dabany
-Q3384461,Pierre Claver Maganga Moussavou,child,Q98545793,Biendi Maganga Moussavou
-Q57521,Ali Bongo Ondimba,child,Q109040197,Noureddin Bongo Valentin
-Q57521,Ali Bongo Ondimba,father,Q172083,Omar Bongo
-Q57521,Ali Bongo Ondimba,mother,Q443143,Patience Dabany
-Q57521,Ali Bongo Ondimba,relative,Q3367723,Pascaline Bongo Ondimba
-Q57521,Ali Bongo Ondimba,spouse,Q284589,Sylvia Bongo Ondimba
+Q172083,Omar Bongo,child,Q3367723,
+Q172083,Omar Bongo,child,Q57521,
+Q172083,Omar Bongo,spouse,Q273791,
+Q172083,Omar Bongo,spouse,Q443143,
+Q3384461,Pierre Claver Maganga Moussavou,child,Q98545793,
+Q57521,Ali Bongo Ondimba,child,Q109040197,
+Q57521,Ali Bongo Ondimba,father,Q172083,
+Q57521,Ali Bongo Ondimba,mother,Q443143,
+Q57521,Ali Bongo Ondimba,relative,Q3367723,
+Q57521,Ali Bongo Ondimba,spouse,Q284589,
