@@ -1,11 +1,19 @@
 @@,itemlabel,item,startdate,enddate
+---,André Gustave Anguilé,Q2847914,1960,1961
+---,Jean-Hilaire Aubame,Q256998,1961,1963
+---,Joseph Ngoua,Q6285804,1963,1964
+---,Pierre Auguste Avaro,Q16079023,1964,1965
+---,Jean Engone,Q6170631,1965,1967
+---,Benjamin Ngoubou,Q4315318,1967,1968
+---,Jean Rémy Ayouné,Q6171473,1968,1971
+---,Georges Rawiri,Q922877,1971,1974
+---,Paul Okoumba d'Okwatsegue,Q7152821,1974,1976
+---,Martin Bongo,Q6775027,1976,1989
+---,Ali Bongo Ondimba,Q57521,1989,1991
+---,Pascaline Bongo Ondimba,Q3367723,1991,1994
 ---,Jean Ping,Q58286,1994-03,1994-11
-->,Casimir Oyé-Mba,Q127219,1994-11->1994,1999-01->1999
-->,Paul Toungui,Q58208,2008-10-07->2008,2012-02-28->2012
-->,Emmanuel Issoze-Ngondet,Q5373253,2012-02-28->2012,2016-09-28->2016
-->,Pacome Moubelet Boubeya->Pacôme Moubelet-Boubeya,Q26924447,2016-09-28->2016,2017
+---,Casimir Oyé-Mba,Q127219,1994-11,1999-01
+->,Pacome Moubelet Boubeya->Pacôme Moubelet-Boubeya,Q26924447,2016-09-28,2017
 ->,Régis Immongault->Régis Immongault Tatangani,Q53535963,2018,2019
-->,Alain Claude Bilie-By-Nze,Q98841301,2019,2020-07-23->2020
 +++,Pacôme Moubelet-Boubeya,Q26924447,2020,2022
 ---,Pacome Moubelet Boubeya,Q26924447,2020-07-23,2022-03-08
-->,Michael Moussa Adamo,Q111718059,2022-03-08->2022,
