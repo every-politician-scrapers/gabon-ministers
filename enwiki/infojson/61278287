@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Libreville"
+      ],
+      "stated_as": "Mayor of Libreville"
+    },
+    "P580": "2014-01-26",
+    "P582": "2019-02-12"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Defense Minister of Gabon"
+    },
+    "P580": "2019-02-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Étienne Massard Kabinda Makaga"
+    },
+    "P582": "2020-07-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Gabon"
+      ],
+      "stated_as": "12th Prime Minister of Gabon"
+    },
+    "P580": "2020-07-16",
+    "P1365": {
+      "links": [
+        "Julien Nkoghe Bekale"
+      ],
+      "stated_as": "Julien Nkoghe Bekale"
+    }
+  }
+]
